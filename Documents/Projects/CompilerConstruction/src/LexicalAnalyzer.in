@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+#typedef long ll;
+
+main()
+{
+     int x, y, _hello, if, go, ll, 9xm;
+     ll abc;
+
+     scanf("%d",&x);
+     printf("%d",x);
+
+     return 0;
+}
